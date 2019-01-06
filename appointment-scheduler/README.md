@@ -1,6 +1,6 @@
 # appointment-scheduler
 
-> Help Tracey get his fucking life together
+> Friendly Appointment Scheduler
 
 ## Build Setup
 
